@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.HumanResourcesCleanArchitecture.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HumanResourcesCleanArchitecture.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HumanResourcesCleanArchitecture.Domain/Enum/TypeEmployeeEnum.cs">
+    <Files>
+      <File FileName="HumanResourcesCleanArchitecture.Domain/Class1.cs" Line="7" Column="1" />
+      <File FileName="HumanResourcesCleanArchitecture.Domain/Enum/IdentificationTypeEnum.cs" Line="1" Column="1" />
+      <File FileName="HumanResourcesCleanArchitecture.Domain/Enum/TypeEmployeeEnum.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HumanResourcesCleanArchitecture" expanded="True">
+            <Node name="HumanResourcesCleanArchitecture.Domain" expanded="True">
+              <Node name="Entity" expanded="True" />
+              <Node name="Enum" expanded="True">
+                <Node name="TypeEmployeeEnum.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
